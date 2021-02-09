@@ -1,13 +1,12 @@
-Hello World
-==========
-Heading
-=======
+# Hello World
 
-SubHeading1
-----------
+## SubHeading1
+
 
   * list item 1
   * list item 2
 
-SubHeading2
-----------
+## SubHeading2
+
+
+### SubHeading3
