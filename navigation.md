@@ -2,7 +2,7 @@
 
 [MCU]()
 
-  <!-- * # FreeRTOS -->
+  * # FreeRTOS
   * [FreeRTOS](FreeRTOS.md)
   <!-- * [SubMenu Item 2](subitem2.md) -->
   <!-- 
