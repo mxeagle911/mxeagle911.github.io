@@ -132,50 +132,15 @@ You can apply span-level formatting to the content of each cell using regular Ma
 | `help()`      | Display the help window.       |
 | `destroy()`   | **Destroy your computer!**     |
 
-## Definition Lists ##
-
-Apple
-   : Pomaceous fruit of plants of the genus Malus in 
-   the family Rosaceae.
-  
-Orange
-   : The fruit of an evergreen tree of the genus Citrus.  
-  
-Tomatoes
-   : There's no "e" in tomato.
-
-You can put blank lines in between each of the above definition list lines to spread things
-out more.
-
-Apple
-
-:   Pomaceous fruit of plants of the genus Malus in 
-    the family Rosaceae.
-
-Orange
-
-:   The fruit of an evergreen tree of the genus Citrus.
-
-Tomatoes
-
-  : There's no "e" in tomato.  
-
-You can also associate more than one term to a definition:
-
-Term 1
-Term 2
-
-:   Definition a
-
-Term 3
-
-:   Definition b
-
 ## Other ##
+
+image
+
+[!alt image](test.PNG)
 
 ### **Abbreviations** ###
 
-(Note heading 4 above)
+(Note heading 3 above)
 
 Markdown Extra adds supports for abbreviations. How it works is pretty simple: 
 
