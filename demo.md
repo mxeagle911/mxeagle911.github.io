@@ -4,10 +4,6 @@ Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, `monospace`.  
 
-use <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> to reboot[^xxx]
-
-[^xxx]:xxx
-
 Itemized lists
 look like:
 
@@ -18,9 +14,13 @@ look like:
 Note that --- not considering the asterisk --- the actual text
 content starts at 3-columns in.
 
-> Block quotes are
+> Block quotes are `sss`
 > written like so.
->
+> ~~~java
+> public void test() {
+> 
+> }
+> ~~~
 > They can span multiple paragraphs,
 > if you like.
 
@@ -98,9 +98,11 @@ Notice again how text always lines up on at 3-space indents (including
 that last line which continues item 3 above).
 
 Here's a link to [a website](https://foo.bar). Here's a link to a [local
-doc](local-doc.html). Here's a footnote [^1].
+doc](local-doc.html). Here's a footnote  
 
-[^1]: Footnote text goes here.
+[^xxx]
+
+[^xxx]:Footnote text goes here.
 
 ### Tables ###
 
@@ -169,7 +171,6 @@ Term 3
 
 :   Definition b
 
-
 ### Other ###
 
 #### Abbreviations ####
@@ -180,10 +181,8 @@ Markdown Extra adds supports for abbreviations. How it works is pretty simple:
 
 Create an abbreviation definition like this:
 
-~~~
-* [HTML]: Hyper Text Markup Language
-* [W3C]:  World Wide Web Consortium
-~~~
+    * [HTML]: Hyper Text Markup Language
+    * [W3C]:  World Wide Web Consortium
 
 * [HTML]: Hyper Text Markup Language
 * [W3C]:  World Wide Web Consortium
