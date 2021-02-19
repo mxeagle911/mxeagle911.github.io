@@ -2,7 +2,13 @@
 
 Paragraphs are separated by a blank line.
 
-2nd paragraph. *Italic*, **bold**, `monospace`. Itemized lists
+2nd paragraph. *Italic*, **bold**, `monospace`.  
+
+use <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> to reboot[^xxx]
+
+[^xxx]:xxx
+
+Itemized lists
 look like:
 
 * this one
@@ -46,11 +52,11 @@ Here's a code block sample:
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
 
-~~~python
+```python
 define foobar() {
     print "Welcome to flavor country!";
 }
-~~~
+```
 
 (which makes copying & pasting easier). You can optionally mark the
 delimited block for syntax highlighting with any code pretty CSS framework.
