@@ -23,4 +23,4 @@
   * [SubMenu Item 3](subitem3.md)
   - - - -
   * # SubMenu Heading 3
-  * [SubMenu Item 3](subitem3.md)
+  * [DEMO](demo.md)
