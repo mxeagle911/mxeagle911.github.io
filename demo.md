@@ -70,7 +70,7 @@ for i in range(10):
     print i
 ~~~
 
-### Heading 3 ###
+## Heading 3 ##
 
 Now a nested list:
 
@@ -104,7 +104,7 @@ doc](local-doc.html). Here's a footnote
 
 [^xxx]:Footnote text goes here.
 
-### Tables ###
+## Tables ##
 
 Tables can look like this:
 
@@ -121,7 +121,7 @@ side means the column is center-aligned.
 
 | Item      | Description | Value|
 |:--------- |:-----------:|-----:|
-| Computer  | Desktop PC  |$1600 |
+| Computer<br>jadfs  | Desktop PC  |$1600 |
 | Phone     | iPhone 5s   |  $12 |
 | Pipe      | Steel Pipe  |   $1 |
 
@@ -132,7 +132,7 @@ You can apply span-level formatting to the content of each cell using regular Ma
 | `help()`      | Display the help window.       |
 | `destroy()`   | **Destroy your computer!**     |
 
-### Definition Lists ###
+## Definition Lists ##
 
 Apple
    : Pomaceous fruit of plants of the genus Malus in 
@@ -171,9 +171,9 @@ Term 3
 
 :   Definition b
 
-### Other ###
+## Other ##
 
-#### Abbreviations ####
+### **Abbreviations** ###
 
 (Note heading 4 above)
 
