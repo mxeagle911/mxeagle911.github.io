@@ -1,5 +1,5 @@
 # TechBlog
-
+[gimmick:theme](flatly)
 [WEB]()
 
   * # Front
