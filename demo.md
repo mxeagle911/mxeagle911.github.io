@@ -134,8 +134,7 @@ You can apply span-level formatting to the content of each cell using regular Ma
 
 ## Other ##
 
-image
-
+image show
 ![image](image/test.PNG)
 
 ### **Abbreviations** ###
