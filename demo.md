@@ -143,6 +143,8 @@ Note: note, beachte, nota
 Hint:  
 hint, tip, tipp, hinweis, suggerimento
 
+[gimmick:yuml]( [HttpContext]uses -.->[Response] )
+
 image show
 
 ![image](image/test.PNG)
