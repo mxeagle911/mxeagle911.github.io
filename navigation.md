@@ -24,3 +24,5 @@
   - - - -
   * # SubMenu Heading 3
   * [DEMO](demo.md)
+  
+[gimmick:themechooser](Choose theme)
