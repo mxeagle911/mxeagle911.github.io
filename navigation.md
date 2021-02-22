@@ -4,7 +4,6 @@
 
   * [安装](vue/install.md)
 
-- - - -
 [WEB]()
 
   * # Front
@@ -18,7 +17,7 @@
   * [SubMenu Item 3](subitem3.md)
 
 [Menu Item 2](item2.md)
-- - - -
+
 [MCU]()
 
   * [FreeRTOS](MCU/FreeRTOS.md)
