@@ -17,6 +17,10 @@ look like:
 * [ ] task2
 * [ ] task3
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 Note that --- not considering the asterisk --- the actual text
 content starts at 3-columns in.
 
