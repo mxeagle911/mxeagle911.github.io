@@ -6,15 +6,15 @@
 
 * 最新版
 
-~~~
+```
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-~~~
+```
 
 * 指定版本
   
-~~~
+```
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-~~~
+```
 
 > **vue.js和vue.min.js**  
 > vue.js: 开发版本, 包含完整的警告和调试模式  
@@ -26,9 +26,9 @@
 
 * 最新版
 
-~~~
+```
 $ npm install vue
-~~~
+```
 
 ## **命令行工具(CLI)**
 
