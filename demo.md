@@ -4,12 +4,18 @@ Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, `monospace`.  
 
-Itemized lists
+**Itemized lists**
 look like:
 
 * this one
 * that one
 * the other one
+
+**Task list**
+
+* []task1
+* []task2
+* []task3
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 3-columns in.
