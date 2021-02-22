@@ -134,7 +134,17 @@ You can apply span-level formatting to the content of each cell using regular Ma
 
 ## Other ##
 
+### Alerts ###
+
+warning: warning, achtung, attention, warnung, atención, guarda, advertimiento, attenzione
+
+Note: note, beachte, nota
+
+Hint:  
+hint, tip, tipp, hinweis, suggerimento
+
 image show
+
 ![image](image/test.PNG)
 
 ### **Abbreviations** ###
