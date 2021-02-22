@@ -13,9 +13,9 @@ look like:
 
 **Task list**
 
-* [] task1
-* [] task2
-* [] task3
+* [ ] task1
+* [ ] task2
+* [ ] task3
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 3-columns in.
