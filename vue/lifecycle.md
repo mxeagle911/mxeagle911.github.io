@@ -12,7 +12,7 @@
 
 ## 示例
 
-~~~javascript
+~~~typescript
 created: function () {
     // `this` points to the vm instance
     console.log('a is: ' + this.a)
