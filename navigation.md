@@ -3,6 +3,7 @@
 [VUE]()
 
   * [安装](vue/install.md)
+  * [生命周期](vue/lifecycle.md)
 
 [WEB]()
 
