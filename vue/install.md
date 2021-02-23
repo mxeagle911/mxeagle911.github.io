@@ -8,13 +8,13 @@
 
 * 最新版
 
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 ```
 
 * 指定版本
   
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
 ```
 
@@ -30,7 +30,7 @@
 
 * 最新版
 
-```
+```shell
 $ npm install vue
 ```
 

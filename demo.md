@@ -11,7 +11,8 @@ look like:
 * that one
 * the other one
 
-**Task list**
+**Task list**  
+`do not work in MDWiki`
 
 * [ ] task1
 * [ ] task2
