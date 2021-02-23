@@ -8,3 +8,13 @@
 
 ![image](lifecycle.png)
 
+<br>
+
+## 示例
+
+~~~javascript
+created: function () {
+    // `this` points to the vm instance
+    console.log('a is: ' + this.a)
+}
+~~~
