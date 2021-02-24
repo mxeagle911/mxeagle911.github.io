@@ -39,6 +39,17 @@ $ npm install vue
 ## 命令行工具(CLI)
 
 命令行工具(CLI)是官方提供的项目构建工具，使用该工具可以快速构建工程。  
-更多[VUE CLI](https://cli.vuejs.org/)
 
-Warning: 使用CLI需要对node.js有一定了解
+安装CLI
+
+```shell
+$ npm install -g @vue/cli 
+```
+
+新建VUE工程
+
+```shell
+$ vue create hello-world
+```
+
+更多[VUE CLI](https://cli.vuejs.org/)
