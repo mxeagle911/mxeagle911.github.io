@@ -8,8 +8,7 @@
 
 [WEB]()
 
-  * # Front
-  * [VUE](WEB/Front/VUE.md)
+  * [Front](WEB/Front/index.md)
   * [SubMenu Item 1](subitem2.md)
   - - - -
   * # SubMenu Heading 2
