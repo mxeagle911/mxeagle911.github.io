@@ -6,7 +6,7 @@
 
 红框为可使用的hooks
 
-![image](lifecycle.png)
+![image](lifecycle.png "lifecycle.png")
 
 <br>
 
